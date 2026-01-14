@@ -85,7 +85,7 @@ sid=NDB
 number=00
 
 # Configure Python version ( Default: python2; Valid values: python2 | python3 )
-configure_python=python2
+configure_python=python3
 
 # Local Host Worker Group ( Default: default )
 workergroup=default
